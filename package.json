@@ -1,0 +1,19 @@
+{
+  "name": "videojs-http-source-selector",
+  "version": "1.0.0",
+  "description": "VideoJS HTTP Source Selector plugin",
+  "main": "src/plugin.js",
+  "style": "src/plugin.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "keywords": [
+    "videojs",
+    "videojs-plugin"
+  ],
+  "author": "Pasindu Deshan",
+  "license": "MIT",
+  "peerDependencies": {
+    "video.js": "^8.0.0"
+  }
+}
