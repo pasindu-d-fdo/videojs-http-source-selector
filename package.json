@@ -2,8 +2,8 @@
   "name": "videojs-http-source-selector",
   "version": "1.0.0",
   "description": "VideoJS HTTP Source Selector plugin",
-  "main": "src/plugin.js",
-  "style": "src/plugin.css",
+  "main": "src/videojs-http-source-selector.js",
+  "style": "src/videojs-http-source-selector.css",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 0"
   },
